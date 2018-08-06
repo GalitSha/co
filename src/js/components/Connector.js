@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import connectorImg from "./converters.jpg"
-import wandIcon from './wand_icon.png'
-import heartIcon from './heart-icon.png'
-import shareIcon from './share-icon.png'
+import connectorImg from "../../images/converters.jpg"
+import wandIcon from '../../images/wand-icon.png'
+import heartIcon from '../../images/heart-icon.png'
+import shareIcon from '../../images/share-icon.png'
 
 export class Connector extends Component {
   render() {
